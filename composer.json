@@ -1,0 +1,23 @@
+{
+    "name": "alxsad/mapreduce",
+    "description": "php map reduce implementation",
+    "keywords": ["php", "map", "reduce", "mapreduce"],
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "MapReduce": "src"
+        }
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Alex Davidovich",
+            "email": "alxsad@gmail.com"
+        }
+    ]
+}
